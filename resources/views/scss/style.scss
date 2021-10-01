@@ -1,0 +1,18 @@
+
+html,body {
+    height: 100%;
+  }
+
+ .card-content {
+  border: solid 1px #2d5ab4;
+  background-color: #fff;
+ }
+
+
+  h1, h3 {
+    font-family: "Open Sans", sans-serif;
+    color:#555555;
+  }
+
+
+@import "~bootstrap/scss/bootstrap";
